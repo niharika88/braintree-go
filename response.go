@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/BoltApp/braintree-go/xmlnil"
+	"github.com/niharika88/braintree-go/xmlnil"
 )
 
 type Response struct {

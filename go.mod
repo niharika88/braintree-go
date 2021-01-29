@@ -1,3 +1,3 @@
-module github.com/BoltApp/braintree-go
+module github.com/niharika88/braintree-go
 
 go 1.14

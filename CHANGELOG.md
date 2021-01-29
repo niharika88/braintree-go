@@ -17,7 +17,7 @@ INTERNAL:
 
 BACKWARDS INCOMPATIBILITES:
 
-* Move package from github.com/lionelbarrow/braintree-go to github.com/BoltApp/braintree-go.
+* Move package from github.com/lionelbarrow/braintree-go to github.com/niharika88/braintree-go.
 
 IMPROVEMENTS:
 
