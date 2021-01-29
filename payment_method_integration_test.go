@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/BoltApp/braintree-go/testhelpers"
+	"github.com/niharika88/braintree-go/testhelpers"
 )
 
 func TestPaymentMethod(t *testing.T) {

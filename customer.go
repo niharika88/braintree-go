@@ -1,7 +1,7 @@
 package braintree
 
 import (
-	"github.com/BoltApp/braintree-go/customfields"
+	"github.com/niharika88/braintree-go/customfields"
 	"time"
 )
 

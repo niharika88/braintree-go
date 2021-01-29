@@ -6,7 +6,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/BoltApp/braintree-go/testhelpers"
+	"github.com/niharika88/braintree-go/testhelpers"
 )
 
 // This test will fail unless you set up your Braintree sandbox account correctly. See TESTING.md for details.

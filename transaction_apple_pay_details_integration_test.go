@@ -6,7 +6,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/BoltApp/braintree-go/testhelpers"
+	"github.com/niharika88/braintree-go/testhelpers"
 )
 
 func TestTransactionApplePayDetails(t *testing.T) {
